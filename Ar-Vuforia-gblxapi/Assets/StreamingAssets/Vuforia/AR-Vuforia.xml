@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="apricot-background-berry-1028599" size="4.000000 2.665625" />
+    <ImageTarget name="agriculture-growth-hand-1072824" size="5.000000 3.332031" />
+    <ImageTarget name="amro-home" size="5.000000 7.143145" />
+    <ImageTarget name="amro-women-outdoors" size="5.000000 7.143145" />
+  </Tracking>
+</QCARConfig>
